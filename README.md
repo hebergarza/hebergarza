@@ -8,7 +8,7 @@
 
 I'm a team player who loves to solve problems with code, currently working as head of engineering at [Orchata (YCS20)](https://orchata.com). I have been working in startup environments since 2013.
 
-As a hobby, I like to validate startup ideas, cybersecurity and create video games.
+As a hobby, I like to validate startup ideas, cybersecurity CTFs challenges and create video games.
 
 If you think we can connect in any way feel free to tweet me at [@heberuriegas](https://twitter.com/heberuriegas).
 
