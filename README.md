@@ -4,13 +4,13 @@
 
 [![Hackthebox](https://www.hackthebox.eu/badge/image/752033)](https://app.hackthebox.com/profile/752033)
 
-### Welcome to my github profile!.
+### Welcome to my Github profile!
 
 I'm a team player who loves to solve problems with code, currently working as head of engineering at [Orchata (YCS20)](https://orchata.com). I have been working in startup environments since 2013.
 
-As a hobby, I like to validate startup ideas, solve cybersecurity ctf and create video games.
+As a hobby, I like to validate startup ideas, solve cybersecurity CTF and create video games.
 
-If you think we can connect in any way feel free to tweet me at [@heberuriegas](https://twitter.com/heberuriegas).
+If you think we can connect in any way, feel free to tweet me at [@heberuriegas](https://twitter.com/heberuriegas).
 
 ### Stack experience
 
