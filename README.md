@@ -6,7 +6,7 @@
 
 ### Welcome to my Github profile!
 
-I'm a team player who loves to solve problems with code, currently working as a software engineer at [Apptegy](https://apptegy.com). I have been working in startup environments since 2013.
+I'm a team player who loves to solve problems with code, currently founder at [TalkToUsers.AI](https://talktousers.ai). I have been working in startup environments since 2013.
 
 As a hobby, I like to validate startup ideas, solve cybersecurity CTF and create video games.
 
