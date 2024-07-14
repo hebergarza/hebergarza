@@ -6,9 +6,7 @@
 
 ### Welcome to my Github profile!
 
-I'm a team player who loves to solve problems with code, currently founder at [TalkToUsers.AI](https://talktousers.ai). I have been working in startup environments since 2013.
-
-As a hobby, I like to validate startup ideas, solve cybersecurity CTF and create video games.
+Currently YC S24 founder at [Stealth Startup](https://en.wikipedia.org/wiki/Stealth_startup).
 
 If you think we can connect in any way, feel free to tweet me at [@heberuriegas](https://twitter.com/heberuriegas).
 
