@@ -6,7 +6,7 @@
 
 ### Welcome to my Github profile!
 
-Currently YC S24 founder at [Seals AI](https://hireseals.ai).
+Currently founder at [Seals AI (YC S24)](https://hireseals.ai).
 
 If you think we can connect in any way, feel free to tweet me at [@heberuriegas](https://twitter.com/heberuriegas).
 
