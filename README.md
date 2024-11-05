@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif" alt="hello world!" width="32" style="position: relative; top: 8;"/> Hello world!
+## Hey there!
 
 [![Linkedin Badge](https://img.shields.io/badge/-huriegas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huriegas/)](https://www.linkedin.com/in/huriegas/)&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/woohoou/)](https://leetcode.com/woohoou/)&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/heber1)&nbsp;&nbsp;[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1467028/heberuriegas)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/@heberuriegas-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/heberuriegas)
 
