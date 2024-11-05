@@ -1,6 +1,6 @@
 ## No admittance except on coding business.
 
-Founder at [Seals AI (YC S24)](https://hireseals.ai).
+Co-Founder at [Seals AI (YC S24)](https://hireseals.ai).
 
 If you think we can connect in any way, feel free to email me at [iam@heberuriegas.com](mailto:iam@heberuriegas.com).
 
